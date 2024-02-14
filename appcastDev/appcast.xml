@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+	<channel>
+		<title>Application</title>
+		<description>Most recent changes with links to updates</description>
+		<language>en</language>
+		<item>
+			<title>Application 0.1.4</title>
+			<pubDate>Mon, 12 Feb 2024 21:33:35 +01:00</pubDate>
+			<sparkle:version>0.1.4</sparkle:version>
+			<sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+			<enclosure url="TaskFire_Setup.exe" sparkle:version="0.1.4" sparkle:shortVersionString="0.1" length="1688542" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="8PhVxjP2JKR2P8C+lqS85CV/Firz1PclyfzHlCsZBme+4E6WlumFkeLfbIZ3hse9s+SsjQZDy+ovwChT5keRCg==" />
+		</item>
+	</channel>
+</rss>
