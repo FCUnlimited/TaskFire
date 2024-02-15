@@ -8,8 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="appcastDev\" />
-    <Folder Include="appcastMain\" />
+    <Folder Include="appcast\" />
   </ItemGroup>
 
 </Project>
