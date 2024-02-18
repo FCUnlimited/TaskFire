@@ -12,7 +12,7 @@
 			</sparkle:releaseNotesLink>
 			<sparkle:version>0.1.4</sparkle:version>
 			<sparkle:shortVersionString>0.1</sparkle:shortVersionString>
-			<enclosure url="https://github.com/FCUnlimited/TaskFire/releases/download/v0.1.5/TaskFire_0-1-4.zip"
+			<enclosure url="https://github.com/FCUnlimited/TaskFire/releases/download/v0.1.5/TaskFire_Setup.exe"
                 sparkle:version="0.1.4"
                 sparkle:shortVersionString="0.1"
                 sparkle:os="windows"
