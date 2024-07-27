@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+	<channel>
+		<title>Stable</title>
+		<language>en</language>
+		<item>
+			<title>Version 0.1.4: First release</title>
+			<pubDate>Mon, 12 Feb 2024 21:33:35 +01:00</pubDate>
+			<sparkle:releaseNotesLink>
+				https://raw.githubusercontent.com/FCUnlimited/TaskFire/dev/changelog/0.1.4.md
+			</sparkle:releaseNotesLink>
+			<sparkle:version>0.1.4</sparkle:version>
+			<sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+			<enclosure url="https://github.com/FCUnlimited/TaskFire/releases/download/v0.1.5/TaskFire_Setup.exe"
+                sparkle:version="0.1.4"
+                sparkle:shortVersionString="0.1"
+                sparkle:os="windows"
+                length="1688542"
+                type="application/octet-stream"
+                sparkle:criticalUpdate="false"
+                sparkle:signature="8PhVxjP2JKR2P8C+lqS85CV/Firz1PclyfzHlCsZBme+4E6WlumFkeLfbIZ3hse9s+SsjQZDy+ovwChT5keRCg==" />
+		</item>
+	</channel>
+</rss>
