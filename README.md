@@ -1,5 +1,5 @@
 # TaskFire
-A todo tool which let's you create multiple boards. Each board can have child boards with its own todos and categories. If a todo is triggered it fires up to the master board. 
+A todo tool which let's you create multiple boards. Each board can have child boards with its own todos and categories. If a todo is triggered it fires up to the master board. All on your local disk.
 
 ## The Main Screen
 Complete view
@@ -61,6 +61,7 @@ Here you can see the tasks which are owned by the board or came up from a child 
 - There can also be a blue siren which is visible when the task just came up and you haven't clicked on it.
 
 ## Other cool things
+- Your data stays your data - no server, no risk
 - It has an auto update function
 - It is possible to sync between multiple devices through your favourite file sharing software like Dropbox, SharePoint or my favourite Syncthing.
 - It is created with the power of AvaloniaUI. So it is only a question of time when the mobile app comes
