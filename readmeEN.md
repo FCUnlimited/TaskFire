@@ -72,6 +72,6 @@ Here you can see the tasks which are owned by the board or came up from a child 
 # Thanks to
 - [AvaloniaUI](https://avaloniaui.net/)
 - [ReactiveUI](https://www.reactiveui.net/)
-- [Projektanker/Icons](https://github.com/Projektanker/Icons.Avalonia)
+- [Optris/Icons](https://github.com/projektanker/icons.avalonia)
 - [LiteDB](https://www.litedb.org/)
 - [Velopack](https://velopack.io/)

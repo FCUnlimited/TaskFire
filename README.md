@@ -88,7 +88,7 @@ Hier siehst du die Aufgaben, die zu diesem Board gehören oder von einem Unter-B
 
 - [AvaloniaUI](https://avaloniaui.net/)  
 - [ReactiveUI](https://www.reactiveui.net/)  
-- [Projektanker/Icons](https://github.com/Projektanker/Icons.Avalonia)  
+- [Optris/Icons](https://github.com/projektanker/icons.avalonia)  
 - [LiteDB](https://www.litedb.org/)  
 - [Velopack](https://velopack.io/)  
 
